@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rishitpuri
-- 👀 I’m interested in data science 
-- 🌱 I’m currently learning data analytics and ML 
-- 💞️ I’m looking to collaborate on various projecs 
+- 👀 I’m interested in data science and MLOps
+- 🌱 I’m currently doing MS in Data Science  
+- 💞️ I’m looking to collaborate on various projects 
 - 📫 How to reach me : https://www.linkedin.com/in/rishit-puri-8ab21918a/
 -                      rishitpuri15@outlook.com
 
