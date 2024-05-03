@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rishitpuri
-- 👀 I’m interested in data science and MLOps
+- 👀 I’m interested in Data Science/Engineering, MLOps and Data Science for medical applications 
 - 🌱 I’m currently doing MS in Data Science  
 - 💞️ I’m looking to collaborate on various projects 
 - 📫 How to reach me : https://www.linkedin.com/in/rishit-puri-8ab21918a/
