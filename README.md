@@ -1,4 +1,4 @@
-👋 Welcome to Rishit Puri's GitHub Profile!
+# 👋 Welcome to Rishit Puri's GitHub Profile!
 
 Hi, I'm Rishit Puri, a passionate AI Engineer and Data Scientist with a Master’s in Data Science from Indiana University (GPA: 3.6/4.0). I specialize in building scalable AI workflows, multimodal pipelines, and data-driven solutions for healthcare and fintech. My work blends cutting-edge machine learning, cloud technologies, and DevOps to solve real-world problems with impact. 🚀
 
